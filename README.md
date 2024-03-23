@@ -4,6 +4,8 @@
 
 ссылка на колаб - https://colab.research.google.com/drive/1_beAo2axYsR07fCnPypih6pXGgyreqR1?usp=sharing
 
+Ноутбук также загружен в репозиторий
+
 ## Файлы
 Гистоновая метка | Название файла
 ---| ---
@@ -58,3 +60,9 @@ State |  Характерные гистоновые модификации | Р
 8 | H3k36me3 | RefSeqTES, RefSeqGene, RefSeqExon. Попадает на экзоны, интроны и между генами | ![image](https://github.com/bromivipo/hse_hw3_chromhmm/assets/113182560/0f022fb4-7890-4151-adb8-83e14bc38d4e) | Transcriptional Elongation
 9 | - | ядерная ламина. Занимает большую часть генома | ![image](https://github.com/bromivipo/hse_hw3_chromhmm/assets/113182560/a1b73cfa-466e-4bd8-896f-1ba2f9287a68) | Repressed
 10 | H3k27me3 | ядерная ламина. Попадает на интроны, экзоны и участки между генами | ![image](https://github.com/bromivipo/hse_hw3_chromhmm/assets/113182560/aa76c258-4ff8-46a6-b808-06de89f6a445) | Heterochromatin
+
+## Бонус
+
+Код в колабе, там описано как получить новый бед файл. Файл также загружен в репозиторий. Результат следующий:
+
+![image](https://github.com/bromivipo/hse_hw3_chromhmm/assets/113182560/cd93ab6a-0462-4124-88b4-e8daef48ab40)
